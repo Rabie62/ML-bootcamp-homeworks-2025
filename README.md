@@ -1,1 +1,0 @@
-Welcome! This repository contains my completed assignments and projects from the machine-learning-zoomcamp 2025. It serves as both a personal learning archive and a showcase of my growth in ML fundamentals, model development and data-driven thinking.
